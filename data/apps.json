@@ -332,7 +332,8 @@
             ],
             "private_alternatives": [
                 { "id": "matrix", "name": "Matrix" },
-                { "id": "zulip", "name": "Zulip" }
+                { "id": "zulip", "name": "Zulip" },
+				{ "id": "stoat", "name": "Stoat" }
             ]
         },
         {
